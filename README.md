@@ -31,7 +31,7 @@ Projede Kaggle üzerinde bulunan [Garbage Classification Dataset](https://www.ka
 ---
 
 ## 📊 Sonuçlar ve Performans
-* Model, test verileri üzerinde yüksek doğruluk oranı elde etmiştir.
+* Model, test verileri üzerinde yüksek doğruluk oranı (% 99) elde etmiştir.
 * Performans analizleri, Karmaşıklık Matrisi (Confusion Matrix) ve Sınıf Bazlı Doğruluk (Recall) metrikleri kullanılarak yapılmıştır.
 
 ---
