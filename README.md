@@ -25,7 +25,7 @@ Projede Kaggle üzerinde bulunan [Garbage Classification Dataset](https://www.ka
 1. Bu depoyu bilgisayarınıza indirin (Clone).
 2. Orijinal veri setini indirerek proje klasörüne yerleştirin.
 3. MATLAB uygulamasını açın.
-4. `proje1.m` dosyasını çalıştırarak GUI arayüzünü (`garbageApp.m`) tetikleyin.
+4. `main.m` dosyasını çalıştırarak GUI arayüzünü (`garbageApp.m`) tetikleyin.
 5. Arayüz üzerinden bir test görseli seçebilir veya **Webcam** butonuna tıklayarak canlı olarak sınıflandırma yapabilirsiniz.
 
 ---
@@ -37,3 +37,4 @@ Projede Kaggle üzerinde bulunan [Garbage Classification Dataset](https://www.ka
 ---
 
 ⚠️ Not: Projenin eğitilmiş model dosyası (egitilmisGarbageModel.mat) yüksek boyutu sebebiyle bu depoya dahil edilmemiştir. Projeyi yerelde çalıştırmak için öncelikle modelin yeniden eğitilmesi veya geliştiricilerden temin edilmesi gerekmektedir.
+
